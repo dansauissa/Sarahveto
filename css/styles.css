@@ -1,0 +1,188 @@
+/*police decriture*/
+h1, h3, p, h2, a{
+	font-family: Arial;
+} 
+
+
+nav.menu-nav, img.logo-site{
+	display: inline-block;
+	position: top;
+	vertical-align: top;
+	padding-right: 300px;
+
+}
+
+
+div#content{
+
+	background: url("https://i.pinimg.com/originals/19/e9/40/19e940851573e2a6890e2458a71af84c.jpg") no-repeat;
+	background-size: 100%;
+	width: 100%;
+	padding-bottom: 200px;
+}
+div#staf{
+
+	background: url("https://mail.google.com/mail/u/0?ui=2&ik=7d7cf60fd1&attid=0.1.1&permmsgid=msg-f:1670283200878939519&th=172e09b8beb10d7f&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9F9wOFJ1Rur-gNcbWJZ27mDdOt86kJagbkH3jSHMM1Ba87I4zooO0bMilB6Is6rf-SlkPkFrmeM9FPD573T54drcWcGt6qUQpF1haigO18aZOvcJH5QyX9d3E&disp=emb") no-repeat;
+	background-size: 60%;
+	width: 60%;
+	padding-bottom: 100px;
+}
+div#staf li.btn{
+   list-style-type: none;
+   display: inline-block;
+   padding-left: 60px;
+   padding-top: 100px;
+   margin: 20px;
+
+}
+
+div#staf li.btn p{
+   color: white;
+   text-decoration: none;
+   padding: 5px;
+   font-size: 18px;
+
+
+}
+div#staf li.btn a{
+   color: white;
+   background-color: grey;
+   text-decoration: none;
+   padding: 10px;
+   font-size: 14px;
+}
+div#staf li.btn:hover a{
+   color: grey;
+   background-color: white;
+   
+}
+
+div#content h1, h3, p, li.btn a{
+
+	padding-left: 100px;
+
+
+}
+div#content h1{
+	padding-top: 400px;
+	color: #D06B48;
+
+}
+div#content li.btn{
+   list-style-type: none;
+   display: inline-block;
+   padding-left: 80px;
+   padding-top: 10px;
+   margin: 20px;
+
+}
+div#content li.btn a{
+   color: white;
+   background-color: grey;
+   text-decoration: none;
+   padding: 10px;
+   font-size: 18px;
+}
+div#content li.btn:hover a{
+   color: grey;
+   background-color: white;
+   
+}
+
+
+
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+	margin: 20px;
+	padding-top: 20px;
+
+
+
+}
+
+nav.menu-nav ul li.btn a{
+	color: black;
+	background-color: white;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 18px;
+}
+nav.menu-nav ul li.btn a.maitre{
+	color: orange;
+	
+}
+
+
+nav.menu-nav ul li.btn:hover a{
+	color: grey;
+	
+}
+footer{
+	background-color: rgb(164, 154, 135);
+	margin: 0px;
+}
+div#bas div{
+	display: inline-block;
+	width: 25%;
+	margin-top: 0px;
+	
+	
+
+
+}
+footer p, h2{
+	color: white;
+}
+
+div#bas div.basgauche{
+	margin-left: 150px;
+	
+	
+}
+div#bas div.basdroit{
+	margin-left: 150px;
+	
+	
+}
+p.lissence{
+	margin-left: 50px;
+}
+li{
+	list-style-type: none;
+}
+div#bas div.resaux{
+	margin-left: 10px;
+	
+
+}
+div#bas div.resaux img{
+    
+	width: 80px; 
+
+}
+
+/*p.welcome{
+	color : white;
+}
+p.vivacss{
+	color : white;
+}
+
+body{
+	background-color: black;
+
+
+}
+
+h1.oui{
+	color : white;
+	font-size: 100px;
+}
+
+a{
+	color : blue;
+}
+
+*/
